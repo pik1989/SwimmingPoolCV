@@ -1,12 +1,3 @@
-# Thinking
-
-
-# Responding
-
-
-
-#### GitHub README for Swimming Pool Chair Occupancy Detection
-
 # Swimming Pool Chair Occupancy Detection
 
 ## Overview
@@ -78,7 +69,3 @@ We welcome contributions! Please feel free to submit a pull request or open an i
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Feel free to modify the paths to images and any other details as needed for your specific project. This README provides a structured overview and guidance for users interested in your swimming pool chair occupancy detection project!
