@@ -67,6 +67,8 @@ We plan to implement an AWS S3-based deployment strategy:
 
 ![image](https://github.com/user-attachments/assets/898b3eeb-92aa-437c-b7b7-5c741f0a3115)
 
+https://github.com/user-attachments/assets/c3c3dfc7-e247-45df-9c62-67be24eca85b
+
 https://github.com/user-attachments/assets/1f56de94-b98c-43a7-a625-7b3a50b683a8
 
 ## Contributing
