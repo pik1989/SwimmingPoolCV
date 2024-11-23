@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pool-chair-occupancy-detection.git
+   git clone https://github.com/pik1989/SwimmingPoolCV.git
    cd pool-chair-occupancy-detection
    ```
 
