@@ -39,8 +39,6 @@ To get started with this project, follow these steps:
 - Initially, we collected images and videos from **Google**.
 - We used **Roboflow** for annotating and augmenting our dataset.
 
-![Data Collection](path/to/data-collection-image.png)
-
 ## Model Development
 - We developed a YOLOv8 model for occupancy detection based on the annotated dataset.
 - The training process included hyperparameter tuning to optimize model performance.
@@ -62,7 +60,7 @@ We plan to implement an AWS S3-based deployment strategy:
 2. **Data Storage**: Store the incoming feed in **AWS S3**.
 3. **Processing**: Use the YOLOv8 model to analyze the stored footage.
 
-![Deployment Strategy](path/to/deployment-strategy-image.png)
+![image](https://github.com/user-attachments/assets/44891d87-41b0-4bae-8e8a-8fdaa6a2106e)
 
 ## Contributing
 We welcome contributions! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
