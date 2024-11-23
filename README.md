@@ -37,6 +37,7 @@ To get started with this project, follow these steps:
 
 ## Data Collection
 - Initially, we collected images and videos from **Google**.
+- Data: https://drive.google.com/drive/folders/1Imq9Fql_3fslGtADL1tSQrroI4Opq7lV?usp=sharing
 - We used **Roboflow** for annotating and augmenting our dataset.
 
 ## Model Development
